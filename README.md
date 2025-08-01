@@ -1,11 +1,10 @@
-# PPT-ADDIN-MANAGER
+# OneDeploy GitHub Tools
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Tangui-Gouirand/PPT-ADDIN-MANAGER?label=version&color=blue)
 
-📘 [Read in English](README.en.md)
+📘 [Lire en français](README.md)
 
-**PPT-ADDIN-MANAGER** est un **gestionnaire centralisé de compléments PowerPoint**.  
-Il permet à l’utilisateur de **configurer manuellement les dossiers** GitHub contenant ses compléments, puis de **télécharger, installer, désinstaller et mettre à jour** ces add-ins via une interface simple, avec **vérification de signature numérique** intégrée.
+**OneDeploy GitHub Tools** est un **gestionnaire centralisé** permettant à l’utilisateur de **configurer manuellement les dossiers** GitHub contenant ses compléments Office et exécutables, puis de **télécharger, installer, désinstaller et mettre à jour** ces outils via une interface simple, avec **vérification de signature numérique** intégrée.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a3ba853d-008e-47cc-b695-501a1d8b6d66" width="400"/>
@@ -19,10 +18,10 @@ Il permet à l’utilisateur de **configurer manuellement les dossiers** GitHub 
 
 ## ✨ Fonctionnalités principales
 
-- 📁 **Configuration manuelle** des dossiers GitHub contenant les compléments souhaités
+- 📁 **Configuration manuelle** des dossiers GitHub contenant les outils (add-ins Office, exécutables)
 - ✅ **Vérification automatique** des versions disponibles (via GitHub Releases)
 - 🔘 **Mise à jour en un clic** : un bouton devient actif si une nouvelle version est détectée
-- 🧹 **Désinstallation propre** des compléments
+- 🧹 **Désinstallation propre** des outils
 - 🔒 **Vérification de signature** avant toute installation ou mise à jour
 
 ---
@@ -30,37 +29,37 @@ Il permet à l’utilisateur de **configurer manuellement les dossiers** GitHub 
 ## 📦 Installation
 
 1. Téléchargez la dernière version depuis la section [Releases](https://github.com/Tangui-Gouirand/PPT-ADDIN-MANAGER/releases).
-2. Lancez l’exécutable `PPTAddinManager.exe`.
+2. Lancez l’exécutable `OneDeploy.exe`.
 3. Au premier lancement, l’application se copie automatiquement dans :  
-   `C:\Users\<User>\AppData\Local\Programs\PPTADDINMANAGER\`  
+   `C:\Users\<User>\AppData\Local\Programs\ONEDEPLOY\`  
    et crée un raccourci vers cette version auto-gérée.
 
 ---
 
 ## ⚙️ Prérequis
 
-- Windows 10 ou supérieur
-- Microsoft PowerPoint (Office 2016 ou plus récent)
-- Connexion Internet (pour accéder aux dépôts GitHub)
+- Windows 10 ou supérieur  
+- Microsoft Office (PowerPoint, Word, Excel, Outlook à venir)  
+- Connexion Internet (pour accéder aux dépôts GitHub)  
 
 ---
 
 ## 🛡️ Sécurité
 
-Tous les compléments téléchargés depuis GitHub sont :
-- Signés numériquement (`.sig`)
-- Vérifiés localement avant installation ou mise à jour
+Tous les fichiers téléchargés depuis GitHub sont :  
+- Signés numériquement (`.sig`)  
+- Vérifiés localement avant installation ou mise à jour  
 
 ---
 
 ## 📚 Roadmap
 
-- [x] Gestion des compléments PowerPoint
-- [ ] Support Word / Excel / Outlook
-- [ ] Gestion d’exécutables indépendants
-- [ ] Interface de configuration avancée
-- [ ] Détection automatique des dépôts (optionnel)
-- [ ] Intégration proxy automatique
+- [x] Gestion des compléments PowerPoint  
+- [ ] Support Word / Excel / Outlook  
+- [ ] Gestion d’exécutables indépendants  
+- [ ] Interface de configuration avancée  
+- [ ] Détection automatique des dépôts (optionnel)  
+- [ ] Intégration proxy automatique  
 
 ---
 
@@ -75,5 +74,3 @@ Merci de soumettre un ticket ou une pull request via [Issues](https://github.com
 
 Développé par **Tangui Gouirand**  
 💡 Outils simples pour utilisateurs exigeants.
-
----
