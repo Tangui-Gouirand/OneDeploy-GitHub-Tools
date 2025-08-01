@@ -59,7 +59,8 @@ Tous les fichiers téléchargés depuis GitHub sont :
 - [ ] Gestion d’exécutables indépendants  
 - [ ] Interface de configuration avancée  
 - [ ] Détection automatique des dépôts (optionnel)  
-- [ ] Intégration proxy automatique  
+- [ ] Intégration proxy automatique
+- [ ] Support multi-langue
 
 ---
 
