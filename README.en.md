@@ -2,7 +2,7 @@
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Tangui-Gouirand/PPT-ADDIN-MANAGER?label=version&color=blue)
 
-📘 [Lire en Français](README.md)
+[![Lire en Français](https://img.shields.io/badge/langue-français-blue)](README.md)
 
 **OneDeploy GitHub Tools** is a **centralized manager** that allows users to **manually configure GitHub folders** containing Office add-ins (PowerPoint, etc.) and standalone executables, then **download, install, uninstall, and update** these tools through a simple interface with built-in **digital signature verification**.
 
@@ -60,6 +60,7 @@ All files downloaded from GitHub are:
 - [ ] Advanced configuration UI  
 - [ ] Proxy auto-detection  
 - [ ] Optional automatic repository discovery
+- [ ] Multi-language support
 
 ---
 
