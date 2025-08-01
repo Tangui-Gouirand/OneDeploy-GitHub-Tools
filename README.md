@@ -1,6 +1,7 @@
 # PPT-ADDIN-MANAGER
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Tangui-Gouirand/PPT-ADDIN-MANAGER?label=version&color=blue)
+📘 [Read in English](README.en.md)
 
 **PPT-ADDIN-MANAGER** est un **gestionnaire centralisé de compléments PowerPoint**.  
 Il permet à l’utilisateur de **configurer manuellement les dossiers** GitHub contenant ses compléments, puis de **télécharger, installer, désinstaller et mettre à jour** ces add-ins via une interface simple, avec **vérification de signature numérique** intégrée.
