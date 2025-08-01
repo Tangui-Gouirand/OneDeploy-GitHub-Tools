@@ -1,9 +1,9 @@
 # PPT-ADDIN-MANAGER
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Tangui-Gouirand/PPT-ADDIN-MANAGER>?label=version&color=blue)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Tangui-Gouirand/PPT-ADDIN-MANAGER?label=version&color=blue)
 
-
-**PPT-ADDIN-MANAGER** est un **gestionnaire centralisé de compléments PowerPoint**. Il permet de **synchroniser, installer, désinstaller et mettre à jour facilement** plusieurs compléments (add-ins) via les dépôts GitHub publics d’un utilisateur, tout en garantissant l’**authenticité des fichiers grâce à une vérification de signature numérique**.
+**PPT-ADDIN-MANAGER** est un **gestionnaire centralisé de compléments PowerPoint**.  
+Il permet à l’utilisateur de **configurer manuellement les dossiers** GitHub contenant ses compléments, puis de **télécharger, installer, désinstaller et mettre à jour** ces add-ins via une interface simple, avec **vérification de signature numérique** intégrée.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a3ba853d-008e-47cc-b695-501a1d8b6d66" width="400"/>
@@ -17,11 +17,11 @@
 
 ## ✨ Fonctionnalités principales
 
-- 🔍 **Détection automatique des compléments** à partir des dépôts GitHub d’un utilisateur.
-- ✅ **Vérification de signature** pour sécuriser les fichiers téléchargés.
-- 🔄 **Mises à jour automatiques** des compléments installés.
-- 🧹 **Désinstallation propre** des add-ins non désirés.
-- 🧩 Conçu pour **PowerPoint**, avec un objectif d’extension à **Word, Excel et Outlook**, ainsi qu'à **des exécutables indépendants**.
+- 📁 **Configuration manuelle** des dossiers GitHub contenant les compléments souhaités
+- ✅ **Vérification automatique** des versions disponibles (via GitHub Releases)
+- 🔘 **Mise à jour en un clic** : un bouton devient actif si une nouvelle version est détectée
+- 🧹 **Désinstallation propre** des compléments
+- 🔒 **Vérification de signature** avant toute installation ou mise à jour
 
 ---
 
@@ -29,8 +29,8 @@
 
 1. Téléchargez la dernière version depuis la section [Releases](https://github.com/Tangui-Gouirand/PPT-ADDIN-MANAGER/releases).
 2. Lancez l’exécutable `PPTAddinManager.exe`.
-3. Au premier lancement, l'application se copie dans le dossier :  
-   `C:\Users\<User>\AppData\Local\OMLET_Tangui-Gouirand\`  
+3. Au premier lancement, l’application se copie automatiquement dans :  
+   `C:\Users\<User>\AppData\Local\Programs\PPTADDINMANAGER\`  
    et crée un raccourci vers cette version auto-gérée.
 
 ---
@@ -38,16 +38,16 @@
 ## ⚙️ Prérequis
 
 - Windows 10 ou supérieur
-- Microsoft PowerPoint (Office 2016+ recommandé)
-- Connexion internet (pour GitHub)
+- Microsoft PowerPoint (Office 2016 ou plus récent)
+- Connexion Internet (pour accéder aux dépôts GitHub)
 
 ---
 
 ## 🛡️ Sécurité
 
 Tous les compléments téléchargés depuis GitHub sont :
-- Signés numériquement (fichier `.sig`).
-- Vérifiés localement avant installation ou mise à jour.
+- Signés numériquement (`.sig`)
+- Vérifiés localement avant installation ou mise à jour
 
 ---
 
@@ -57,6 +57,7 @@ Tous les compléments téléchargés depuis GitHub sont :
 - [ ] Support Word / Excel / Outlook
 - [ ] Gestion d’exécutables indépendants
 - [ ] Interface de configuration avancée
+- [ ] Détection automatique des dépôts (optionnel)
 - [ ] Intégration proxy automatique
 
 ---
@@ -68,15 +69,9 @@ Merci de soumettre un ticket ou une pull request via [Issues](https://github.com
 
 ---
 
-## 📄 Licence
-
-MIT – Utilisation libre sous conditions. Voir le fichier `LICENSE`.
-
----
-
 ## 👤 Auteur
 
 Développé par **Tangui Gouirand**  
+💡 Outils simples pour utilisateurs exigeants.
 
 ---
-
