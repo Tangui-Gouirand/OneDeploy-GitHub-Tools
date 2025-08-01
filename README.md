@@ -27,7 +27,7 @@
 
 ## 📦 Installation
 
-1. Téléchargez la dernière version depuis la section [Releases](https://github.com/<TON-USER>/<TON-REPO>/releases).
+1. Téléchargez la dernière version depuis la section [Releases](https://github.com/Tangui-Gouirand/PPT-ADDIN-MANAGER/releases).
 2. Lancez l’exécutable `PPTAddinManager.exe`.
 3. Au premier lancement, l'application se copie dans le dossier :  
    `C:\Users\<User>\AppData\Local\OMLET_Tangui-Gouirand\`  
