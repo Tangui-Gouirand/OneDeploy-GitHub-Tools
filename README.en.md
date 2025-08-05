@@ -7,13 +7,12 @@
 **OneDeploy GitHub Tools** is a **centralized manager** that allows users to **manually configure GitHub folders** containing Office add-ins (PowerPoint, etc.) and standalone executables, then **download, install, uninstall, and update** these tools through a simple interface with built-in **digital signature verification**.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a3ba853d-008e-47cc-b695-501a1d8b6d66" width="400"/>
+  <img src="https://github.com/user-attachments/assets/4eb8a72e-79ac-49f7-af98-e87282c43355" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ece29652-88d0-4f90-b475-a3fd01bd7ff9" width="300"/>
+  <img src="https://github.com/user-attachments/assets/e8092130-f05b-4012-bb80-82988c67d5b6" width="300"/>
 </p>
-
 ---
 
 ## ✨ Key Features
