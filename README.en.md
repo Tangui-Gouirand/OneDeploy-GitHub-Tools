@@ -55,11 +55,11 @@ All files downloaded from GitHub are:
 ## 📚 Roadmap
 
 - [x] PowerPoint add-in management  
-- [ ] Support for Word / Excel / Outlook  
-- [ ] Standalone executable management  
-- [ ] Advanced configuration UI  
+- [x] Support for Word / Excel / Outlook  
+- [x] Standalone executable management  
+- [x] Advanced configuration UI  
 - [ ] Proxy auto-detection  
-- [ ] Optional automatic repository discovery
+- [x] Optional automatic repository discovery
 - [ ] Multi-language support
 
 ---
