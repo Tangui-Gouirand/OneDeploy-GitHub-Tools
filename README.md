@@ -56,7 +56,7 @@ Tous les fichiers téléchargés depuis GitHub sont :
 
 - [x] Gestion des compléments PowerPoint  
 - [x] Support Word / Excel  
-- [x] Gestion d’exécutables indépendants  
+- [ ] Gestion d’exécutables indépendants  
 - [x] Interface de configuration avancée  
 - [x] Détection automatique des dépôts (optionnel)  
 - [ ] Intégration proxy automatique
