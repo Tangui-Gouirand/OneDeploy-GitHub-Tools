@@ -74,4 +74,3 @@ Merci de soumettre un ticket ou une pull request via [Issues](https://github.com
 ## 👤 Auteur
 
 Développé par **Tangui Gouirand**  
-💡 Outils simples pour utilisateurs exigeants.
