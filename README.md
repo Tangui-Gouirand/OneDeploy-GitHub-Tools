@@ -54,12 +54,12 @@ Tous les fichiers téléchargés depuis GitHub sont :
 
 ## 📚 Roadmap
 
-- [x] Gestion des compléments PowerPoint  
-- [x] Support Word / Excel  
+- [ ] Gestion des compléments Vsto  
+- [ ] Support .exe 
 - [ ] Gestion d’exécutables indépendants  
 - [x] Interface de configuration avancée  
 - [x] Détection automatique des dépôts (optionnel)  
-- [ ] Intégration proxy automatique
+- [x] Intégration proxy automatique
 - [ ] Support multi-langue
 
 ---
