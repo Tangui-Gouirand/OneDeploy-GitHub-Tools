@@ -54,8 +54,7 @@ Tous les fichiers téléchargés depuis GitHub sont :
 
 ## 📚 Roadmap
 
-- [ ] Gestion des compléments Vsto  
-- [ ] Support .exe 
+- [ ] Gestion des compléments Vsto
 - [ ] Gestion d’exécutables indépendants  
 - [x] Interface de configuration avancée  
 - [x] Détection automatique des dépôts (optionnel)  
